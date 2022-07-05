@@ -19,11 +19,11 @@ The structural and functional scans were preprocessed using the fMRIPrep version
 
 ### Scripts
 
-1. `movie_watching_analysis`: main notebook containing full-length ISC analysis, static analysis, hurst exponent analysis among others
-2. `emotion_segment`: notebook containing the difference in ISC in the high-emotion segment relative to the low-emotion segment of the movie
+1. `movie_watching_analysis`: notebook containing full-length ISC analysis, static analysis, hurst exponent analysis among others
+2. `emotion_segment`: notebook containing the difference in ISC in the high-emotion relative to low-emotion segments of the movie
 3. `dynamic_isc_analysis`: notebook containing dynamic ISC analysis using a tapered cosine sliding window
 4. `dynamic_FC_analysis`: notebook containing dynamic FC analysis using a tapered cosine sliding window
-5. `hurst_exponent_FDR`: notebook containing the FDR thresholding of the hurst exponent for multiple comparison correction at the network and ROI level
+5. `hurst_exponent_FDR`: notebook containing the FDR thresholding of the hurst exponent at the network and ROI level
 
 ### Citation
 
