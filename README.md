@@ -34,5 +34,5 @@ We kindly thank the volunteers from the community and community-based Child and 
 
 ### Citation
 
-Ramduny, J., MacSweeney, M., Petkova, E., Kellaghan, E., Lahert, N., Gallagher, L. et al. Naturalistic emotional processing in adolescent females with depressive symptoms.
+Ramduny, J., MacSweeney, M., Petkova, E., Kellaghan, E., Lahert, N., Gallagher, L., Vanderwal, T., & Kelly C. Naturalistic emotional processing in adolescent females with depressive symptoms.
 
