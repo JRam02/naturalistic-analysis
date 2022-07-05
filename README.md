@@ -15,7 +15,7 @@ Participants underwent an fMRI scan during which they watched a movie called The
 
 ### Movie-watching data
 
-The structural and functional scans were acquired using a Philips Achieva 3T scanner from the Trinity College Institute of Neuroscience (TCIN) which is located at Trinity College Dublin. A T1-weighted MPRAGE volume with a spatial resolution of 0.9 x 0.9 x 0.9 mm3 (FOV = 230 mm, TR = 8.4 ms, TE = 3.8 ms, flip angle = 8°) was obtained for each participant. The participants underwent resting-state and movie-watching fMRI scans although the resting-state data were not used in the present study. The movie-watching fMRI data were acquired with 132 echo-planar imaging (EPI) volumes (37 slices, TR = 2000 ms, TE = 30 ms, voxel size = 3.2 x 3 x 3 mm3).
+The structural and functional scans were acquired using a Philips Achieva 3T scanner from the Trinity College Institute of Neuroscience (TCIN) which is located at Trinity College Dublin. A T1-weighted MPRAGE volume with a spatial resolution of 0.9 x 0.9 x 0.9 mmsup>3</sup> (FOV = 230 mm, TR = 8.4 ms, TE = 3.8 ms, flip angle = 8°) was obtained for each participant. The participants underwent resting-state and movie-watching fMRI scans although the resting-state data were not used in the present study. The movie-watching fMRI data were acquired with 132 echo-planar imaging (EPI) volumes (37 slices, TR = 2000 ms, TE = 30 ms, voxel size = 3.2 x 3 x 3 mmsup>3</sup>).
 
 ### MRI Preprocessing Pipeline
 
@@ -30,7 +30,7 @@ The structural and functional scans were preprocessed using the fMRIPrep version
 5. `hurst_exponent_FDR`: notebook containing the FDR thresholding of the hurst exponent at the network and ROI level
 
 ### Acknowledgement
-We kindly thank the volunteers from the community and community-based Child and Adolescent Mental Health Services clinic in Ireland. This work has been supported by the Trinity College Dublin Provost Award (2018-2019) and a NARSAD Young Investigator Award from the Brain and Behaviour Research Foundation (2015-2017) awarded to Dr. Clare Kelly. We also wish to thank the creators for their online book on the naturalistic data analysis as part of the Educational Course for OHBM 2020: https://naturalistic-data.org/content/intro.html.
+We kindly thank the volunteers from the community and community-based Child and Adolescent Mental Health Services clinic in Ireland. This work has been supported by the Trinity College Dublin Provost Award (2018-2019) and a NARSAD Young Investigator Award from the Brain and Behaviour Research Foundation (2015-2017) awarded to Dr. Clare Kelly. We also wish to thank the creators of the online book on the naturalistic data analysis as part of the Educational Course for OHBM 2020: https://naturalistic-data.org/content/intro.html.
 
 ### Citation
 
