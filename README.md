@@ -15,7 +15,7 @@ Participants underwent an fMRI scan during which they watched a movie called The
 
 ### Movie-watching data
 
-The structural and functional scans were acquired using a Philips Achieva 3T scanner from the Trinity College Institute of Neuroscience (TCIN) which is located at Trinity College Dublin. A T1-weighted MPRAGE volume with a spatial resolution of 0.9 x 0.9 x 0.9 mmsup>3</sup> (FOV = 230 mm, TR = 8.4 ms, TE = 3.8 ms, flip angle = 8°) was obtained for each participant. The participants underwent resting-state and movie-watching fMRI scans although the resting-state data were not used in the present study. The movie-watching fMRI data were acquired with 132 echo-planar imaging (EPI) volumes (37 slices, TR = 2000 ms, TE = 30 ms, voxel size = 3.2 x 3 x 3 mmsup>3</sup>).
+The structural and functional scans were acquired using a Philips Achieva 3T scanner from the Trinity College Institute of Neuroscience (TCIN) which is located at Trinity College Dublin. A T1-weighted MPRAGE volume with a spatial resolution of 0.9 x 0.9 x 0.9 mm<sup>3</sup> (FOV = 230 mm, TR = 8.4 ms, TE = 3.8 ms, flip angle = 8°) was obtained for each participant. The participants underwent resting-state and movie-watching fMRI scans although the resting-state data were not used in the present study. The movie-watching fMRI data were acquired with 132 echo-planar imaging (EPI) volumes (37 slices, TR = 2000 ms, TE = 30 ms, voxel size = 3.2 x 3 x 3 mm<sup>3</sup>).
 
 ### MRI Preprocessing Pipeline
 
